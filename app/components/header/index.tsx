@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <>
             <header className="px-4 py-2 w-full">
-                <div className="flex w-[76%] mx-auto my-1 justify-between text-center items-center">
+                <div className="flex w-[76%] min-h-[7.5vh] mx-auto my-1 justify-between text-center items-center">
                     <a
                         href="/"
                         id="main-logo"

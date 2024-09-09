@@ -7,7 +7,7 @@ import Title from '~/components/title';
 import { ResizablePanelGroup } from '~/components/ui/resizable';
 
 export const meta: MetaFunction = () => {
-    return [{ title: 'Home' }, { name: 'description', content: 'Home' }];
+    return [{ title: 'XNL Admin - Home' }];
 };
 
 export default function Admin() {

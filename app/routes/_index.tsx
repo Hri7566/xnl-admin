@@ -2,6 +2,14 @@ import { Footer } from '~/components/footer';
 import Header from '~/components/header';
 import { PageContainer } from '~/components/page';
 
+export const meta = () => {
+    return [
+        {
+            title: 'XNL - Home'
+        }
+    ];
+};
+
 export default function Index() {
     return (
         <>
@@ -20,8 +28,7 @@ export default function Index() {
 
             <div
                 style={{
-                    background:
-                        'linear-gradient(20deg, #ff660005, #ff990005), #00000040'
+                    background: '#ff660005'
                 }}
                 className="absolute top-0 -z-20 backdrop-blur-sm w-full min-h-screen isolate"
             />
