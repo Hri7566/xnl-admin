@@ -1,4 +1,4 @@
-import Link from '../Link';
+import Link from '../../Link';
 import SidebarProfile from './SidebarProfile';
 
 export default function Sidebar() {

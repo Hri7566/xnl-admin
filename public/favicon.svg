@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 215.56 250">
+    <defs>
+        <style>.b{fill:#ff001a;}.c{fill:#f60;}.d{fill:#09f;}</style>
+    </defs>
+    <polygon class="c" points="77.76 0 215.56 250 181.44 250 43.37 0 77.76 0" />
+    <polygon class="c" points="34.13 0 172.19 250 138.07 250 0 0 34.13 0" />
+    <path class="d"
+        d="M129.34,77.98l-17.7-32.61L137.81,0h34.39l-42.86,77.98Zm22.08,40.27L215.56,0h-34.13l-47.48,86.64,17.45,31.61Z" />
+    <g>
+        <polygon class="b" points="86.23 172.02 103.68 203.37 77.76 250 43.37 250 86.23 172.02" />
+        <polygon class="b" points="81.61 163.36 34.13 250 0 250 64.15 131.75 81.61 163.36" />
+    </g>
+</svg>

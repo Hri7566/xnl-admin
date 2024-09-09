@@ -67,6 +67,7 @@ export function App() {
                     name="viewport"
                     content="width=device-width, initial-scale=1"
                 />
+                <link rel="icon" type="image/svg" href="/favicon.svg" />
                 <Meta />
                 <PreventFlashOnWrongTheme ssrTheme={Boolean(data.theme)} />
                 <Links />
